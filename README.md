@@ -1,4 +1,4 @@
-# RSNA Knee Abnormality Detection — Apex Grandmaster Stack V5
+# RSNA Knee Abnormality Detection — RSNA Knee Abnormality
 
 Public LB **0.949** ensemble for the RSNA Knee Abnormality Detection AI Challenge 2026.
 
