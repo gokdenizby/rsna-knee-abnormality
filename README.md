@@ -1,5 +1,5 @@
 # ============ README.md ============
-# RSNA Knee Abnormality Detection — RSNA Knee Abnormality V132
+# RSNA Knee Abnormality Detection — RSNA Knee Abnormality V134
 
 Public LB **0.950** ensemble for the RSNA Knee Abnormality Detection AI Challenge 2026.
 
@@ -7,7 +7,7 @@ Public LB **0.950** ensemble for the RSNA Knee Abnormality Detection AI Challeng
 |---|---|---|
 | 1 | CoAtNet-384 anchor | 0.949 |
 | 2 | + ConvNeXt reader (Routing v1) | 0.950 |
-| 3 | Routing 2.0 + anti-tie + re-rank | 0.950 |
+| 3 | Routing 2.0 + anti-tie + re-rank | 0.954 |
 
 ## Architecture
 1. CoAtNet-384 single arm → `_sota_0949.csv` (SHA-pinned anchor)
@@ -69,3 +69,4 @@ __pycache__/
 
 https://www.kaggle.com/datasets/goodpjw2008/rsna-knee-2-5d-convnext-reader
 https://www.kaggle.com/datasets/nartaa/rsna-knee-publication-swa-weights-20261007
+https://www.kaggle.com/datasets/heliosli/rsna-knee-compact-v1
